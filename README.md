@@ -5,10 +5,6 @@
 
 ---
 
-![Liver Structure](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mdpi.com%2F2673-4389%2F1%2F4%2F23&psig=AOvVaw1Z8iiCF9J0E4tvnJwSaN3M&ust=1751041764119000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjk44TBj44DFQAAAAAdAAAAABAV)
-
----
-
 ## 🔗 GitHub Repository
 
 👉 [View Full Project on GitHub](https://github.com/Rajithareddy05/liver-cirrhosis-prediction)
