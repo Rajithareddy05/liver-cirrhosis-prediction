@@ -4,6 +4,7 @@
 **Liver cirrhosis** is a progressive liver disease marked by damage and scarring. This project uses machine learning to predict the **stage of cirrhosis** a patient is in, based on clinical and biochemical data.
 
 ---
+![liver structure](https://cdn.lecturio.com/assets/Porta-Hepatis-and-liver-inferior-view.png)
 
 ## 🔗 GitHub Repository
 
@@ -24,7 +25,7 @@ This classification helps in timely treatment planning and disease management.
 
 ---
 
-![Liver Stages](https://img.freepik.com/free-vector/informative-illustration-stages-liver-disease-leading-cirrhosis_1308-50030.jpg?w=1380&t=st=1719405003~exp=1719405603~hmac=5d11077a0ed6d62289a60ee3cc05f5822151fc8cd88b027d8cb24ebdee6fa6b6)
+![Liver Stages](https://www.verywellhealth.com/thmb/NrdFXEEHLu7yebnfAg2WJ7skKE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SignsofLiverDamageandWaystoTell-final-d2f8ff9d20884a5ea35131a971b96dcb.png)
 
 ---
 
