@@ -72,7 +72,7 @@ This dataset comes from the **Mayo Clinic’s PBC (Primary Biliary Cirrhosis) tr
 
 ---
 
-![Machine Learning Workflow](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/Pipeline-1024x292.jpg)
+![Machine Learning Workflow](https://www.mdpi.com/livers/livers-01-00023/article_deploy/html/images/livers-01-00023-g001.png)
 
 ---
 
