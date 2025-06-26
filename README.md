@@ -5,7 +5,7 @@
 
 ---
 
-![Liver Structure](https://cdn.pixabay.com/photo/2022/01/18/11/06/liver-6947700_1280.png)
+![Liver Structure](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.neuraldesigner.com%2Flearning%2Fexamples%2Fdiagnose-hcv%2F&psig=AOvVaw1Z8iiCF9J0E4tvnJwSaN3M&ust=1751041764119000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjk44TBj44DFQAAAAAdAAAAABAE)
 
 ---
 
